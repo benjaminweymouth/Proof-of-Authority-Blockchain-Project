@@ -5,7 +5,7 @@
 
 Section one:  
 [Case Study and Industry Analysis](https://github.com/benjaminweymouth/Blockchain-Work/tree/main/Blockchain%20Case%20Study
-)
+) <br> <br> 
 Section two: 
 
 
