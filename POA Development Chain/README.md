@@ -1,6 +1,15 @@
 # Blockchain POA: ZBank Blockchain TestNet. 
 
-Step-by-Step with ScreenShots 
+
+## Remember to include any environment setup instructions and dependencies.
+
+
+## Be sure to include all of the geth flags required to get both nodes to mine and explain what they mean.
+
+
+## Explain the configuration of the network, such as it's blocktime, chain ID, account passwords, ports, etc.
+
+## Step-by-Step with ScreenShots 
 
 
 Create accounts for two (or more) nodes for the network with a separate datadir for each using geth.
