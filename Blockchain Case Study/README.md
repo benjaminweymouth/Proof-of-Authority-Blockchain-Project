@@ -8,28 +8,22 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 ### Table of Contents ### 
 -----------------------------
-1. [Overview and Origin](#overview-and-origin) 
-2. [Business Activities](#business-activities) 
-3. [Landscape](#landscape) 
-4. [Results](#results) 
-5. [Recommendations](#recommendations)
+1. [Origin and Activities](#origin-and-activities) 
+2. [Landscape and Relevance](#landscape-and-relevance) 
+4. [Innovations and Disruptions](#innovations-and-disruptions) 
+5. [Conclusions](#conclusions)
 
-## Overview and Origin
-BlockStream provides financial and blockchain services relating to <sup>[1](#myendnote1)</sup>
+## Origin and Activities
+BlockStream provides financial and blockchain services relating to cryptocurrency prices, <sup>[1](#myendnote1)</sup>
 
-## Business Activities:
-
- 
- 
-
-## Landscape
+## Landscape and Relevance
  
 
 
-## Results
+## Innovations and Disruptions
  
 
-## Recommendations
+## Conclusions
  
 
 ## Endnotes
