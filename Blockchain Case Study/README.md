@@ -1,8 +1,6 @@
-# Blockchain Case Study: BlockStream
+# Block by Block: A Case Study of BlockStream
 
 [![BlockStreamLogo](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/Resources/blockstreamlogo2.png)]()
-
-# Block by Block: A Case Study of BlockStream
 
 ### About ###
 -----------------------------
