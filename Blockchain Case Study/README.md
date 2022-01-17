@@ -1,6 +1,7 @@
 # Blockchain Case Study: BlockStream
 
-[![WealthSimpleLogo](/images/logo.png)](https://www.wealthsimple.com/en-ca/)
+[![WealthSimpleLogo](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/Resources/blockstreamlogo.png)](![https://github.com/benjaminweymouth/Blockchain-Work/blob/main/Resources/blockstreamlogo.png]()
+)
 
 # Block by Block: A Case Study of BlockStream
 
