@@ -1,12 +1,6 @@
 # Blockchain POA: ZBank Blockchain TestNet. 
 
-This repo is for setting up a custom development chain, create documentation for others on how to start it using the pre-configured
-nodes and accounts.
-
-Create a new project directory for your new network. Call it whatever you want!
-
-
-Create a "Screenshots" folder inside of the project directory.
+Step-by-Step with ScreenShots 
 
 
 Create accounts for two (or more) nodes for the network with a separate datadir for each using geth.
