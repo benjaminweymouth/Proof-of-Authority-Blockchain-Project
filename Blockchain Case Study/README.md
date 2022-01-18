@@ -22,9 +22,13 @@ Since 2014, BlockSteam has raised $299M in funding.<sup>[3](#myendnote3)</sup> T
 The next section will explore their product line and relevance in the fintech and blockchain spaces. 
 
 ## Products and Relevance
+
+BlockStream is in the business of creating cryptocurrency and blockchain related solutions for both individuals and businesses. They offer up a new business model which includes a Liquid Wallet which claims to speed up bitcoin transactions. They also offer a cryptocurrency related API for historical prices as well as solutions related to BitCoin Mining. 
  
-Products that they provide 
-https://www.linkedin.com/company/blockstream/products/
+The BlockStream Product line (as of Jan 2022) 
+
+![image](https://user-images.githubusercontent.com/47256041/150037619-72051637-6b08-47e5-850d-c072c124c4be.png)
+
 
 Relevance
 https://www.bnnbloomberg.ca/bitcoin-infrastructure-firm-blockstream-valued-at-3-2-billion-in-new-deal-1.1643638
