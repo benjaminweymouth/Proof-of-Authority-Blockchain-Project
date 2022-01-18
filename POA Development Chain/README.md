@@ -33,7 +33,7 @@ Various commands will be required to setup the blockchain, nodes and activate th
 Setting up accounts for two (or more) nodes for the network with a separate datadir for each using geth.
 
 
-Using geth, initialize each node with the new networkname.json.
+Using geth, initialize each node with the new account.
 
 ./geth --datadir node1 account new <br> 
 
