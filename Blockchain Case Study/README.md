@@ -4,7 +4,7 @@
 
 ### About ###
 -----------------------------
-This analysis seeks to deconstruct some of the key features, trends and activities relating to the company BlockStream. This main objective will be achieved by analyzing WealthSimple in terms of it's structure, origins, competitors and future outlook. 
+This analysis seeks to deconstruct some of the key features, trends and activities relating to the company BlockStream. This main objective will be achieved by analyzing BlockStream in terms of it's origin, products and future outlook. 
 
 ### Table of Contents ### 
 -----------------------------
@@ -14,10 +14,11 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 5. [Conclusions](#conclusions)
 
 ## Origin and Activities
-BlockStream provides financial and blockchain services relating to cryptocurrency prices, <sup>[1](#myendnote1)</sup>
+
+In an era characterized by decentralized finance, a Canadian firm, BlockSteam, is poised to deliver new and blockchain-based financial and cryptocurrency services. BlockStream provides things like a BitCoin Wallet, API services relating to cryptocurrency prices, and a direct satellite feed to BitCoin that users can access without a traditional internet connection. <sup>[1](#myendnote1)</sup> BlockStream was founded in 2014 and its current leadership team includes Dr Adam Back, Erik Svenson, Lawrence Nahum and Samson Mow. <sup>[2](#myendnote2)</sup>
 
 -founders and where they are from. top team are: 
-https://blockstream.com/about/
+
 
 
 -funding rounds, latest, crunchbase 
@@ -34,6 +35,7 @@ https://www.bnnbloomberg.ca/bitcoin-infrastructure-firm-blockstream-valued-at-3-
 
 ## Innovations and Disruptions
 -speed up bitcoin transactions 
+-allow persons to connect to the BitCoin network using satellites, not the traditional internet network. 
 
 -Break down in 2021 of Liquid Network 
 
@@ -47,6 +49,7 @@ http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-
 
 ## Endnotes
 <a name="myendnote1">1</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
+<a name="myendnote2">2</a>: [BlockStream About, Jan 2022.](https://blockstream.com/about/) <br/>
 
  
 
