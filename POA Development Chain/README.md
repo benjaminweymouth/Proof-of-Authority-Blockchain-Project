@@ -46,7 +46,9 @@ Running puppeth, name your network, and select the option to configure a new gen
 
 
 
-Choose the Clique (Proof of Authority) consensus algorithm.
+## Setting up the Proof of Authority Consensus Algorithm. 
+
+Choosing the Clique (Proof of Authority) consensus algorithm.
 
 
 Paste both account addresses from the first step one at a time into the list of accounts to seal.
