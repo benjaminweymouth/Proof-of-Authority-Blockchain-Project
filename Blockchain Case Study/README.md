@@ -17,7 +17,7 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 In an era characterized by decentralized finance, a Canadian firm, BlockSteam, is poised to deliver new and blockchain-based financial and cryptocurrency services. BlockStream provides things like a BitCoin Wallet, API services relating to cryptocurrency prices, and a direct satellite feed to BitCoin that users can access without a traditional internet connection. <sup>[1](#myendnote1)</sup> BlockStream was founded in 2014 and its current leadership team includes Dr Adam Back, Erik Svenson, Lawrence Nahum and Samson Mow. <sup>[2](#myendnote2)</sup>
 
--founders and where they are from. top team are: 
+Since 2014, BlockSteam has raised $299M in funding. They have achieved this amount of funding from a variety of sources. CrunchBase lists their principal seed investors as a company called Power Financial Corporation, who funded the company during their Series A, B and C rounds. 5 Other investors in WealthSimple include Ryan Reynolds, Drake and the Michael J. Fox Foundation.6 This is a substantial amount and would indicate that the firm is desirable as an investment, and a suitable choice for further business analysis.
 
 
 
@@ -50,8 +50,8 @@ http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-
 ## Endnotes
 <a name="myendnote1">1</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
 <a name="myendnote2">2</a>: [BlockStream About, Jan 2022.](https://blockstream.com/about/) <br/>
+<a name="myendnote3">3</a>: [CrunchBase Report on BlockStream.]( https://www.crunchbase.com/organization/blockstream/company_financials) <br/>
 
- 
 
 ## References 
 
