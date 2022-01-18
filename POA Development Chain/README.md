@@ -23,10 +23,8 @@ Chain ID: On the Ethereum network there are various chains, some of which may be
 Various commands will be required to setup the blockchain, nodes and activate them. 
 
 1) First, navigate to the blockchain-tools folder you created 
-
-![ProjectLogo](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/Resources/BlockChainlogo.gif)
-3) Open a GitBash terminal in that folder (on Windows can right-click and then "Git Bash Here) 
-4) navigate to the Blockchain-Tools folder and type the following command: ./puppeth
+2) Open a GitBash terminal in that folder (on Windows can right-click and then "Git Bash Here) 
+3) Navigate to the Blockchain-Tools folder and type the following command: ./puppeth
 
 
 ## ScreenShots Step-by-Step setting up a Blockchain Network (using Go Ethereum)  
