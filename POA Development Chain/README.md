@@ -84,7 +84,7 @@ Screenshots showing the following steps:
 
 
 
-## Initializing the Nodes and Mining  (using Go Ethereum)  
+## Initializing the Nodes on the BenjaminCoin Network  (using Go Ethereum)  
 
 
 Initialize each node with the new networkname.json with geth.
@@ -99,12 +99,14 @@ Screenshot and code for geth, initialize each node with the new networkname.json
 
 ![Initialize each node](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture6.PNG)
 
+## Running the Nodes to start Mining  (using Go Ethereum)  
 Run the first node, unlock the account, enable mining, and the RPC flag. Only one node needs RPC enabled.
 Code for CLI: 
 
 ./geth --datadir node1 --unlock "PublicaddressNODE1" --mine --rpc --allow-insecure-unlock
 
 
+![Start mining Node1](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture7.PNG)
 
 Set a different peer port for the second node and use the first node's enode address as the bootnode flag.
 
