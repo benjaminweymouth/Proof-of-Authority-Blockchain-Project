@@ -1,10 +1,15 @@
 # Blockchain POA: ZBank Blockchain TestNet. 
 
 
-## Remember to include any environment setup instructions and dependencies.
+##  Environment setup instructions and dependencies.
+
+1) install Go Ethereum (Geth link: https://geth.ethereum.org/downloads/) 
+2) install MyCrypto (MyCrypto link: https://mycrypto.com/) 
 
 
-## Be sure to include all of the geth flags required to get both nodes to mine and explain what they mean.
+## Puppeth and Geth Commands 
+
+Various commands will be required to setup the blockchain, nodes and activate them. 
 
 
 ## Explain the configuration of the network, such as it's blocktime, chain ID, account passwords, ports, etc.
