@@ -89,6 +89,11 @@ Screenshots showing the following steps:
 
 Initialize each node with the new networkname.json with geth.
 
+Screenshot and code for geth, initialize each node with the new networkname.json.
+./geth --datadir node1 init benjamincoin.json
+./geth --datadir node2 init benjamincoin.json
+
+
 ![Initialize each node](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture6.PNG)
 
 Run the first node, unlock the account, enable mining, and the RPC flag. Only one node needs RPC enabled.
