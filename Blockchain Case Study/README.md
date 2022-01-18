@@ -19,11 +19,7 @@ In an era characterized by decentralized finance, a Canadian firm, BlockSteam, i
 
 Since 2014, BlockSteam has raised $299M in funding.<sup>[3](#myendnote3)</sup> They have achieved this amount of funding from a variety of sources. They list their seed investors as AME Cloud Venture, AXA Strategic ventures, Digital Garage and others. News networks indicate that the firm is a Unicorn with a 3B valuation, and thus a suitable choice for further business analysis. <sup>[4](#myendnote4)</sup>
 
-
-
--funding rounds, latest, crunchbase 
-https://www.crunchbase.com/organization/blockstream
-
+The next section will explore their product line and relevance in the fintech and blockchain spaces. 
 
 ## Products and Relevance
  
