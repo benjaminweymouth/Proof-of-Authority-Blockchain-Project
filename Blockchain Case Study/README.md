@@ -4,7 +4,7 @@
 
 ### About ###
 -----------------------------
-This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. This main objective will be achieved by analyzing WealthSimple in terms of it's structure, origins, competitors and future outlook. 
+This analysis seeks to deconstruct some of the key features, trends and activities relating to the company BlockStream. This main objective will be achieved by analyzing WealthSimple in terms of it's structure, origins, competitors and future outlook. 
 
 ### Table of Contents ### 
 -----------------------------
