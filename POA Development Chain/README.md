@@ -38,7 +38,7 @@ Using geth, initialize each node with the new networkname.json.
 ./geth --datadir node1 init benjamincoin.json <br> 
 ./geth --datadir node2 init benjamincoin.json
 
-![Screenshot: setting up node1 and node2](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture6.PNG)
+
 
 ## Creating the Network and Genesis Block
 
@@ -54,7 +54,7 @@ Configuring a new genesis block.
 
 ## Setting up the Proof of Authority Consensus Algorithm. 
 
-Screenshots showing the following steps: 
+Screenshot showing the following steps: 
 
 - Choosing the Clique (Proof of Authority) consensus algorithm.
 - Pasting both account addresses from the first step one at a time into the list of accounts to seal.
@@ -63,14 +63,19 @@ Screenshots showing the following steps:
 
 ![Choosing the Clique for POA](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture3.PNG)
 
+Screenshots showing the following steps: 
 
-Complete the rest of the prompts, and when you are back at the main menu, choose the "Manage existing genesis" option.
+- Complete the rest of the prompts, and when you are back at the main menu, choose the "Manage existing genesis" option.
+- Export genesis configurations. This will fail to create two of the files, but you only need networkname.json.
 
 
-Export genesis configurations. This will fail to create two of the files, but you only need networkname.json.
+![Complete the rest of the prompts](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture4.PNG)
+
+- Screenshot showing the nodes and json file (Did delete the other networkname-harmony.json file.)
+
+![Complete the rest of the prompts](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture4.PNG)
 
 
-You can delete the networkname-harmony.json file.
 
 
 ## Initializing the Nodes and Mining  (using Go Ethereum)  
@@ -78,6 +83,7 @@ You can delete the networkname-harmony.json file.
 
 Initialize each node with the new networkname.json with geth.
 
+![Initialize each node](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture6.PNG)
 
 Run the first node, unlock the account, enable mining, and the RPC flag. Only one node needs RPC enabled.
 
