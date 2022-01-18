@@ -1,18 +1,18 @@
 # Blockchain Proof of Authority Development Chain
 
-In this repository, I will set up a Testnet called BenjaminCoin to allow for offline development. I will utilize Puppeth, to generate your genesis block, Geth, a command-line tool, and the Clique Proof of Authority algorithm.
+In this repository, I will set up a Testnet called BenjaminCoin to allow for offline BlockChain development. I will utilize Puppeth, to generate your genesis block, Geth, a command-line tool, and the Clique Proof of Authority algorithm.
 
 
 ##  Environment setup instructions and dependencies.
 
+Here are two installations that must take place before any development or blockchain configuration can occur. 
+
 1) install Go Ethereum (Geth link: https://geth.ethereum.org/downloads/) and install into a folder named as Blockchain-Tools
 2) install MyCrypto (MyCrypto link: https://mycrypto.com/) 
 
-
-
 ## Concepts and Analysis: Blockchain, BlockTime, ChainID.
 
-This exercise will refer to a number of concepts directly and indirectly. It is important to understand these key concepts. 
+Here are a few concepts to reinforce the understanding of blockchain, nodes and how they work together. Since this exercise will refer to a number of concepts directly and indirectly, it is important to understand these key concepts. 
 
 <em>Blockchain:</em> A Blockchain is a computing architecture that utilizes distributed processing and cryptography in order to create a secure, immutable and decentralized ledger upon which transactions and be made without the need for a centralized clearing authority. This form of distributed computing is utilized in this exercise to demonstrate how a blockchain can be spun up and leveraged to facilitate transactions between ethereum wallets. However, the Blockchain goes far beyond the scope of this exercise and is a continually changing and fundamentally altering various incumbant industrial transactions. 
 
