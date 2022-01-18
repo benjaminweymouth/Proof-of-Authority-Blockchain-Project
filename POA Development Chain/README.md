@@ -50,12 +50,11 @@ Utilize the following command to setup the second node.
 
 ## Creating the Network and Genesis Block
 
-Running puppeth, name your network, and select the option to configure a new genesis block.
+This screenshot shows Running puppeth, name your network BenjaminCoin, and select the option to configure a new genesis block.
 
 ![Screenshot: setting up network in Puppeth](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture1.PNG)
 
 Configuring a new genesis block.
-
 
 ![Configuring a new genesis block](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture2.PNG)
 
