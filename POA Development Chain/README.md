@@ -153,4 +153,4 @@ A Successful Transaction
 ![Successful Transaction](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture15.PNG)
 
 ## Conclusion and Results 
-In this repository, I will set up a Testnet called BenjaminCoin to allow for offline BlockChain development. I will utilize Puppeth, to generate your genesis block, Geth, a command-line tool, and the Clique Proof of Authority algorithm.
+In conclusion the transaction was successfull. We created a blockchain network on the Ethereum testnet platform called BenjaminCoin to allow for offline BlockChain development. We successfully transferred funds and utilized the Clique Proof of Authority algorithm.
