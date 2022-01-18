@@ -35,18 +35,18 @@ Various commands will be required to setup the blockchain, nodes and activate th
 Setting up accounts for two (or more) nodes for the network with a separate datadir for each using geth.
 
 
-Using geth, initialize each node with the new account.
+Using geth, initialize each node with the new account. Utilize the following geth command to setup the first node. 
 
 ./geth --datadir node1 account new <br> 
 
 
 ![Screenshot: setting up Node1](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/Node1.PNG)
 
+Utilize the following command to setup the second node. 
+
 ./geth --datadir node2 account new
 
 ![Screenshot: setting up Node2](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/Node2.PNG)
-
-
 
 ## Creating the Network and Genesis Block
 
