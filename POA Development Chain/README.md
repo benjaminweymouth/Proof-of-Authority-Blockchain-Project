@@ -110,8 +110,12 @@ Code for CLI:
 
 Starting Node 2 for Mining, setting a different peer port for the second node and use the first node's enode address as the bootnode flag. Unlocked the account and enable mining on the second node.
 
+Code for Geth: 
+
 ./geth --datadir node2 --unlock "PublicaddressNODE2" --mine --port 30304 --bootnodes "ENODE" --ipcdisable --allow-insecure-unlock
- 
+
+Node 2 mining new blocks: 
+![Both new blocks](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture17.PNG)
 
 
 Both nodes producing new blocks: 
