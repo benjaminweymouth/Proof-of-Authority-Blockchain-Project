@@ -108,14 +108,14 @@ Code for CLI:
 
 ![Start mining Node1](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture7.PNG)
 
-Set a different peer port for the second node and use the first node's enode address as the bootnode flag.
+Starting Node 2 for Mining, setting a different peer port for the second node and use the first node's enode address as the bootnode flag. Unlocked the account and enable mining on the second node.
+
+./geth --datadir node2 --unlock "PublicaddressNODE2" --mine --port 30304 --bootnodes "ENODE" --ipcdisable --allow-insecure-unlock
+ 
 
 
-Be sure to unlock the account and enable mining on the second node!
-
-
-You should now see both nodes producing new blocks, congratulations!
-
+Both nodes producing new blocks: 
+![Both new blocks](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture16.PNG)
 
 
 ## ScreenShots Step-by-Step sending a Test Transaction 
