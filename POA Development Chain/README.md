@@ -18,7 +18,7 @@ Blocktime: The block time refers to the amount of time it will take one node or 
 
 Chain ID: On the Ethereum network there are various chains, some of which may be the official Ethereum chain, while others may be for testing, like the ropsten chain. A Chain ID will identify the chain you wish to connect to. In order to connect to a different chain you would specify the chain ID.  
 
-## Puppeth and Geth Commands 
+## Step-by-Step with ScreenShots and Commands 
 
 Various commands will be required to setup the blockchain, nodes and activate them. 
 
@@ -27,13 +27,13 @@ Various commands will be required to setup the blockchain, nodes and activate th
 3) navigate to the Blockchain-Tools folder and type the following command: ./puppeth
 
 
-## Step-by-Step with ScreenShots 
+## ScreenShots Step-by-Step setting up a Blockchain Network (using Go Ethereum)  
 
 
-Create accounts for two (or more) nodes for the network with a separate datadir for each using geth.
+Setting up accounts for two (or more) nodes for the network with a separate datadir for each using geth.
 
 
-Run puppeth, name your network, and select the option to configure a new genesis block.
+Running puppeth, name your network, and select the option to configure a new genesis block.
 
 
 Choose the Clique (Proof of Authority) consensus algorithm.
@@ -57,7 +57,7 @@ Export genesis configurations. This will fail to create two of the files, but yo
 You can delete the networkname-harmony.json file.
 
 
-Screenshot the puppeth configuration once complete and save it to the Screenshots folder.
+## Initializing the Nodes and Mining  (using Go Ethereum)  
 
 
 Initialize each node with the new networkname.json with geth.
@@ -76,7 +76,7 @@ You should now see both nodes producing new blocks, congratulations!
 
 
 
-Send a test transaction
+## ScreenShots Step-by-Step sending a Test Transaction 
 
 
 Use the MyCrypto GUI wallet to connect to the node with the exposed RPC port.
