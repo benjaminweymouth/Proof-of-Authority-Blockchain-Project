@@ -8,7 +8,7 @@
 
 
 
-## Concepts and Analysis: Blockchain, BlockTime, ChainID, NetworkID.
+## Concepts and Analysis: Blockchain, BlockTime, ChainID.
 
 This exercise will refer to a number of concepts directly and indirectly. It is important to understand these key concepts. 
 
