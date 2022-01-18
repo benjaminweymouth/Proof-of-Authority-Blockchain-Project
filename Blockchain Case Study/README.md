@@ -19,8 +19,10 @@ BlockStream provides financial and blockchain services relating to cryptocurrenc
 -founders and where they are from. top team are: 
 https://blockstream.com/about/
 
+
 -funding rounds, latest, crunchbase 
 https://www.crunchbase.com/organization/blockstream
+https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation
 
 ## Products and Relevance
  
