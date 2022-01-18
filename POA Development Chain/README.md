@@ -46,20 +46,22 @@ Running puppeth, name your network, and select the option to configure a new gen
 
 ![Screenshot: setting up network in Puppeth](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture1.PNG)
 
+Configuring a new genesis block.
+
+
+![Configuring a new genesis block](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture2.PNG)
 
 
 ## Setting up the Proof of Authority Consensus Algorithm. 
 
-Choosing the Clique (Proof of Authority) consensus algorithm.
+Screenshots showing the following steps: 
 
+- Choosing the Clique (Proof of Authority) consensus algorithm.
+- Pasting both account addresses from the first step one at a time into the list of accounts to seal.
+- Pasting both again in the list of accounts to pre-fund. There are no block rewards in PoA, so pre-funding
+- Choosing no for pre-funding the pre-compiled accounts (0x1 .. 0xff) with wei. This keeps the genesis cleaner.
 
-Paste both account addresses from the first step one at a time into the list of accounts to seal.
-
-
-Paste them again in the list of accounts to pre-fund. There are no block rewards in PoA, so you'll need to pre-fund.
-
-
-You can choose no for pre-funding the pre-compiled accounts (0x1 .. 0xff) with wei. This keeps the genesis cleaner.
+![Choosing the Clique for POA](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture3.PNG)
 
 
 Complete the rest of the prompts, and when you are back at the main menu, choose the "Manage existing genesis" option.
