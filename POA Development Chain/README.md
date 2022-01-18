@@ -31,7 +31,7 @@ Various commands will be required to setup the blockchain, nodes and activate th
 
 
 Setting up accounts for two (or more) nodes for the network with a separate datadir for each using geth.
-
+![Screenshot: setting up node1 and node2](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture6.PNG)
 
 Running puppeth, name your network, and select the option to configure a new genesis block.
 
