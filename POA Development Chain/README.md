@@ -35,12 +35,12 @@ Setting up accounts for two (or more) nodes for the network with a separate data
 
 Using geth, initialize each node with the new networkname.json.
 
-./geth --datadir node1 init benjamincoin.json <br> 
+./geth --datadir node1 account new <br> 
 
 
 ![Screenshot: setting up Node1](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/Node1.PNG)
 
-./geth --datadir node2 init benjamincoin.json
+./geth --datadir node2 account new
 
 ![Screenshot: setting up Node2](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/Node2.PNG)
 
