@@ -12,11 +12,11 @@
 
 This exercise will refer to a number of concepts directly and indirectly. It is important to understand these key concepts. 
 
-<u>Blockchain:<u> A Blockchain is a computing architecture that utilizes distributed processing and cryptography in order to create a secure, immutable and decentralized ledger upon which transactions and be made without the need for a centralized clearing authority. This form of distributed computing is utilized in this exercise to demonstrate how a blockchain can be spun up and leveraged to facilitate transactions between ethereum wallets. However, the Blockchain goes far beyond the scope of this exercise and is a continually changing and fundamentally altering various incumbant industrial transactions. 
+<u>Blockchain:</u> A Blockchain is a computing architecture that utilizes distributed processing and cryptography in order to create a secure, immutable and decentralized ledger upon which transactions and be made without the need for a centralized clearing authority. This form of distributed computing is utilized in this exercise to demonstrate how a blockchain can be spun up and leveraged to facilitate transactions between ethereum wallets. However, the Blockchain goes far beyond the scope of this exercise and is a continually changing and fundamentally altering various incumbant industrial transactions. 
 
-Blocktime: The block time refers to the amount of time it will take one node or miner to complete the verification process for a transaction. This is an important concept because if the block time is too high, it will make for very slow transactions. At peak volumes a high block time could create a backlog of transactions which is an undesireable circumstance. 
+<u>Blocktime:</u> The block time refers to the amount of time it will take one node or miner to complete the verification process for a transaction. This is an important concept because if the block time is too high, it will make for very slow transactions. At peak volumes a high block time could create a backlog of transactions which is an undesireable circumstance. 
 
-Chain ID: On the Ethereum network there are various chains, some of which may be the official Ethereum chain, while others may be for testing, like the ropsten chain. A Chain ID will identify the chain you wish to connect to. In order to connect to a different chain you would specify the chain ID.  
+<u>Chain ID:</u> On the Ethereum network there are various chains, some of which may be the official Ethereum chain, while others may be for testing, like the ropsten chain. A Chain ID will identify the chain you wish to connect to. In order to connect to a different chain you would specify the chain ID.  
 
 ## Step-by-Step with ScreenShots and Commands 
 
