@@ -114,11 +114,6 @@ Code for Geth:
 
 ./geth --datadir node2 --unlock "PublicaddressNODE2" --mine --port 30304 --bootnodes "ENODE" --ipcdisable --allow-insecure-unlock
 
-Node 2 unlocked: 
-
-![Node 2 unlocked](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture8.PNG)
-
-
 Node 2 mining new blocks: 
 ![Both new blocks](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture17.PNG)
 
@@ -129,13 +124,31 @@ Both nodes producing new blocks:
 
 ## ScreenShots Step-by-Step sending a Test Transaction 
 
-
 Use the MyCrypto GUI wallet to connect to the node with the exposed RPC port.
 
+In MyCrypto Using KeyStore to open wallet. Check node1 folder for KeyStore.  
+![KeyStore to open wallet](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture9.PNG)
+
+Check Wallet Balance on MyCrypto
+![KeyStore to open wallet](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture10.PNG)
 
 You will need to use a custom network, and include the chain ID, and use ETH as the currency.
+![use a custom network](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture11.PNG)
 
-## Set-up Information 
-This section includes some preliminary setup information, such as installing dependencies and environment configuration.
+Confirming the Transaction in MyCrypto
+
+![Confirming the Transaction in MyCrypto](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture12.PNG)
+
+Broadcasting the Transaction to the Network 
+
+![Transaction to the Network ](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture13.PNG)
+
+Checking the Transaction
+
+![Checking the Transaction](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture14.PNG)
+
+A Successful Transaction
+
+![Successful Transaction](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture15.PNG)
 
 
