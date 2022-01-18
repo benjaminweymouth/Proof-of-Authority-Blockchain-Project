@@ -152,5 +152,5 @@ A Successful Transaction
 
 ![Successful Transaction](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture15.PNG)
 
-## Conclusion and Results 
+## Conclusion
 In conclusion the transaction was successfull. We created a blockchain network on the Ethereum testnet platform called BenjaminCoin to allow for offline BlockChain development. We successfully transferred funds and utilized the Clique Proof of Authority algorithm.
