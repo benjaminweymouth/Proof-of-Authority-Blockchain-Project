@@ -1,3 +1,5 @@
+![POAlogo](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/POAlogo.png)
+
 # Blockchain: Proof of Authority & Development Chain
 
 In this repository, I will set up a Testnet called BenjaminCoin to allow for offline BlockChain development. I will utilize Puppeth, to generate your genesis block, Geth, a command-line tool, and the Clique Proof of Authority algorithm.
