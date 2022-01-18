@@ -79,7 +79,7 @@ Screenshots showing the following steps:
 
 - Screenshot showing the nodes and json file (Did delete the other networkname-harmony.json file.)
 
-![Complete the rest of the prompts](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture4.PNG)
+![Complete the rest of the prompts](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture5.PNG)
 
 
 
