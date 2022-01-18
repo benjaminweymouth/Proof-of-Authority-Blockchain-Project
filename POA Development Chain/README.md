@@ -90,8 +90,11 @@ Screenshots showing the following steps:
 Initialize each node with the new networkname.json with geth.
 
 Screenshot and code for geth, initialize each node with the new networkname.json.
+<br> 
 ./geth --datadir node1 init benjamincoin.json <br> 
 ./geth --datadir node2 init benjamincoin.json
+
+<br>
  
 
 ![Initialize each node](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/benjamincoin/Capture6.PNG)
