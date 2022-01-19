@@ -45,7 +45,9 @@ Some of the BlockStream products and services are geared towards individuals, wh
 
 It's clear the BlockStream is creating and distributing revolutionary technology that will allow greater and faster participation in the fintech, blockchain and cryptocurrency spaces. There are products and services which have appeal to both the B2B and the B2C communities. They create and facilitate blockchain and cryptocurrency infrastructure, making it possible for more people to acheive more, in a smaller amount of time. 
 
--still subject to tech pressure, scalability problems, and market pressures 
+Some challenges still remain for this fledgling crypto unicorn. The firm is still subject to the sluggishness of the BitCoin network and is still vulnerable to network failures and outages. If it is promoting itself as a stabilizing force, then it must address security concerns and network vulnerabilities quickly. It is also subject to pressure from competing platforms such as Ethereum and other cryptocurrency platforms and smart contract providers.
+
+BlockStream's excellence lies in it's ethos, and its in unique product offerings such as the BlockStream Satellite. If it is able to focus these efforts and stabilize its own network, it may become more than just another tech unicorn- it may become a stalwart in the cryptocurrency space for years to come. 
 
 ## Endnotes
 <a name="myendnote1">1</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
