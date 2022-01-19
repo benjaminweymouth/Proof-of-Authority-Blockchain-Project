@@ -41,11 +41,6 @@ Their company has experienced some setbacks however, such as the breakdown of th
 
 Some of the BlockStream products and services are geared towards individuals, while some are decidedly rooted in assisting cryptocurrency mining and individuals in accessing the Blockchain and Bitcoin ecosystem. Therefore, they have the potential to disrupt and change the industry from the bottom up and the top down. 
 
-
-
-
-
-
 ## Conclusions
 
 It's clear the BlockStream is creating and distributing revolutionary technology that will allow greater and faster participation in the fintech, blockchain and cryptocurrency spaces. There are products and services which have appeal to both the B2B and the B2C communities. They create and facilitate blockchain and cryptocurrency infrastructure, making it possible for more people to acheive more, in a smaller amount of time. 
