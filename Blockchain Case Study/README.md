@@ -37,15 +37,10 @@ These types of developments in technology may indeed bring more underbanked and 
 
 If nothing else, the BlockStream corporate ethos and their product line certainly has the potential to become powerful innovative forces in the field of fintech and blockchain. While some of their products are generic, like the cryptocurrency API, some of their products are fundamentally changing the structure of cryptocurrency transactions. Specifically the Liquid Network and the BlockStream Satellite are two outstanding developments that could speed up the BitCoin network and increase the number of participants in the global cryptocurrency community. 
 
-Their company has experienced some setbacks however, such as the breakdown of the Liquid Network in 
+Their company has experienced some setbacks however, such as the breakdown of the Liquid Network in 2021. <sup>[5](#myendnote5)</sup> 
 
 
-Relevance
-https://www.bnnbloomberg.ca/bitcoin-infrastructure-firm-blockstream-valued-at-3-2-billion-in-new-deal-1.1643638
--speed up bitcoin transactions 
--allow persons to connect to the BitCoin network using satellites, not the traditional internet network. 
 
--Break down in 2021 of Liquid Network 
 
 
 
@@ -57,10 +52,10 @@ https://www.bnnbloomberg.ca/bitcoin-infrastructure-firm-blockstream-valued-at-3-
 ## Endnotes
 <a name="myendnote1">1</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
 <a name="myendnote2">2</a>: [BlockStream About, Jan 2022.](https://blockstream.com/about/) <br/>
-<a name="myendnote3">3</a>: [CrunchBase Report on BlockStream.]( https://www.crunchbase.com/organization/blockstream/company_financials) <br/>
-<a name="myendnote4">4</a>: [BlockStream: A Crypto Unicorn](https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation) <br/>
+<a name="myendnote3">3</a>: [CrunchBase: Report on BlockStream.]( https://www.crunchbase.com/organization/blockstream/company_financials) <br/>
+<a name="myendnote4">4</a>: [Coin Telegraph: BlockStream: A Crypto Unicorn](https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation) <br/>
 <a name="myendnote5">5</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
-<a name="myendnote5">6</a>: [BlockStream Liquid Network Breaks Down](http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-down-1.1662129) <br/>
+<a name="myendnote6">6</a>: [BNN: BlockStream Liquid Network Breaks Down](http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-down-1.1662129) <br/>
 
 ## References 
 
