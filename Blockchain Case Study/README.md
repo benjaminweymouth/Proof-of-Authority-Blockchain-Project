@@ -23,13 +23,13 @@ The next section will explore their product line and relevance in the fintech an
 
 ## Products and Relevance
 
-BlockStream is in the business of creating cryptocurrency and blockchain related solutions for both individuals and businesses. They offer up a new business model which includes a Liquid Wallet which claims to speed up bitcoin transactions. They also offer a cryptocurrency related API for historical prices as well as solutions related to BitCoin Mining. The company has also developed their own blockchain platform, called Elements. On Elements, users can build off the bitcoin protocol to execute transactions and spin up their own blockchains.  
+BlockStream is in the business of creating cryptocurrency and blockchain related solutions for both individuals and businesses. They offer up a new business model which includes a Liquid Wallet which claims to speed up bitcoin transactions.<sup>[5](#myendnote5)</sup> They also offer a cryptocurrency related API for historical prices as well as solutions related to BitCoin Mining. The company has also developed their own blockchain platform, called Elements. On Elements, users can build off the bitcoin protocol to execute transactions and spin up their own blockchains.  
  
 The BlockStream Product line (as of Jan 2022) 
 
 ![image](https://user-images.githubusercontent.com/47256041/150037619-72051637-6b08-47e5-850d-c072c124c4be.png)
 
-Their product line is diverse, and spans cryptocurrency APIs, cryptocurrency wallets and an entire blockchain platform. They have also expanded into other related sectors, such as leveraging blockchain for energy sharing with a product line called BlockStream Energy. Furthermore, the company seems to wish to deliver on their promise to allow more democratization and expansion of global participation in bitcoin and blockchain technology. They are acheiving this goal by utilizing satellite technology to allow participants to access the BitCoin network by an independant satellite feed. This means that in areas where users are not able to access the BitCoin platform my traditional means, they can utilize the BlockStream Satellite. 
+Their product line is diverse, and spans cryptocurrency APIs, cryptocurrency wallets and an entire blockchain platform. They have also expanded into other related sectors, such as leveraging blockchain for energy sharing with a product line called BlockStream Energy.<sup>[5](#myendnote5)</sup> Furthermore, the company seems to wish to deliver on their promise to allow more democratization and expansion of global participation in bitcoin and blockchain technology. They are acheiving this goal by utilizing satellite technology to allow participants to access the BitCoin network by an independant satellite feed. This means that in areas where users are not able to access the BitCoin platform my traditional means, they can utilize the BlockStream Satellite.<sup>[5](#myendnote5)</sup> 
 
 
 ## Innovations and Disruptions
@@ -54,7 +54,8 @@ http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-
 <a name="myendnote1">1</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
 <a name="myendnote2">2</a>: [BlockStream About, Jan 2022.](https://blockstream.com/about/) <br/>
 <a name="myendnote3">3</a>: [CrunchBase Report on BlockStream.]( https://www.crunchbase.com/organization/blockstream/company_financials) <br/>
-<a name="myendnote4">3</a>: [blockstream-joins-crypto-unicorns.](https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation) <br/>
+<a name="myendnote4">4</a>: [blockstream-joins-crypto-unicorns.](https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation) <br/>
+<a name="myendnote5">5</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
 
 ## References 
 
