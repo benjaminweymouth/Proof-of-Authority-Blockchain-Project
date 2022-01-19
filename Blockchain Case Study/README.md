@@ -61,3 +61,19 @@ BlockStream's excellence lies in it's ethos, and its in unique product offerings
 
 Blockstream: Bitcoin and digital asset infrastructure. (2022). Retrieved 17 January 2022, from https://blockstream.com/
 
+About | Blockstream. (2014). Retrieved January 19, 2022, from Blockstream: Bitcoin and digital asset infrastructure website: https://blockstream.com/about/
+
+Crunchbase. (2021). Retrieved January 19, 2022, from Crunchbase website: https://www.crunchbase.com/organization/blockstream/company_financials
+
+Huillet, M. (2021, August 24). Canadian Bitcoin miner Blockstream joins crypto unicorns with $3.2B valuation. Retrieved January 19, 2022, from Cointelegraph website: https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation
+
+BNN Bloomberg. (2021, October 5). Liquid Network’s Platform for Faster Bitcoin Trades Breaks Down - BNN Bloomberg. Retrieved January 19, 2022, from BNN website: http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-down-1.1662129
+
+Becky MH. (2017, November 29). Blockstream. All about cryptocurrency - BitcoinWiki. Retrieved January 19, 2022, from Bitcoinwiki.org website: https://en.bitcoinwiki.org/wiki/Blockstream
+
+BlockStream, LinkedIn Page. (2014). Retrieved January 19, 2022, from Linkedin.com website: https://www.linkedin.com/company/blockstream/
+
+
+
+
+
