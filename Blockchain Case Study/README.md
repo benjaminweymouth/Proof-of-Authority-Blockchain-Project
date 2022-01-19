@@ -9,7 +9,7 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 ### Table of Contents ### 
 -----------------------------
 1. [Origin and Activities](#origin-and-activities) 
-2. [Products and Relevance](#products-and-relevance) 
+2. [Products and the Democratization of Cryptocurrency](#products-and-the-democratization-of-cryptocurrency) 
 4. [Innovations and Disruptions](#innovations-and-disruptions) 
 5. [Conclusions](#conclusions)
 
