@@ -37,8 +37,9 @@ These types of developments in technology may indeed bring more underbanked and 
 
 If nothing else, the BlockStream corporate ethos and their product line certainly has the potential to become powerful innovative forces in the field of fintech and blockchain. While some of their products are generic, like the cryptocurrency API, some of their products are fundamentally changing the structure of cryptocurrency transactions. Specifically the Liquid Network and the BlockStream Satellite are two outstanding developments that could speed up the BitCoin network and increase the number of participants in the global cryptocurrency community. 
 
-Their company has experienced some setbacks however, such as the breakdown of the Liquid Network in 2021. <sup>[5](#myendnote5)</sup> 
+Their company has experienced some setbacks however, such as the breakdown of the Liquid Network in 2021. <sup>[6](#myendnote6)</sup> 
 
+Some of the BlockStream products and services are geared towards individuals, while some are decidedly rooted in assisting cryptocurrency mining and individuals in accessing the Blockchain and Bitcoin ecosystem. Therefore, they have the potential to disrupt and change the industry from the bottom up and the top down. 
 
 
 
@@ -46,7 +47,9 @@ Their company has experienced some setbacks however, such as the breakdown of th
 
 
 ## Conclusions
--Revolutionary tech
+
+It's clear the BlockStream is creating and distributing revolutionary technology that will allow greater and faster participation in the fintech, blockchain and cryptocurrency spaces. There are products and services which have appeal to both the B2B and the B2C communities. They create and facilitate blockchain and cryptocurrency infrastructure, making it possible for more people to acheive more, in a smaller amount of time. 
+
 -still subject to tech pressure, scalability problems, and market pressures 
 
 ## Endnotes
