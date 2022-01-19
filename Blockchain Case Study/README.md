@@ -58,7 +58,7 @@ https://www.bnnbloomberg.ca/bitcoin-infrastructure-firm-blockstream-valued-at-3-
 <a name="myendnote1">1</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
 <a name="myendnote2">2</a>: [BlockStream About, Jan 2022.](https://blockstream.com/about/) <br/>
 <a name="myendnote3">3</a>: [CrunchBase Report on BlockStream.]( https://www.crunchbase.com/organization/blockstream/company_financials) <br/>
-<a name="myendnote4">4</a>: [Crypto Unicorn](https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation) <br/>
+<a name="myendnote4">4</a>: [BlockStream: A Crypto Unicorn](https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation) <br/>
 <a name="myendnote5">5</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
 <a name="myendnote5">6</a>: [BlockStream Liquid Network Breaks Down](http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-down-1.1662129) <br/>
 
