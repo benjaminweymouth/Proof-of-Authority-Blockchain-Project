@@ -21,7 +21,7 @@ Since 2014, BlockSteam has raised $299M in funding.<sup>[3](#myendnote3)</sup> T
 
 The next section will explore their product line and relevance in the fintech and blockchain spaces. 
 
-## Products and Relevance
+## Products and the Democratization of Cryptocurrency
 
 BlockStream is in the business of creating cryptocurrency and blockchain related solutions for both individuals and businesses. They offer up a new business model which includes a Liquid Wallet which claims to speed up bitcoin transactions.<sup>[5](#myendnote5)</sup> They also offer a cryptocurrency related API for historical prices as well as solutions related to BitCoin Mining. The company has also developed their own blockchain platform, called Elements. On Elements, users can build off the bitcoin protocol to execute transactions and spin up their own blockchains.  
  
@@ -31,8 +31,13 @@ The BlockStream Product line (as of Jan 2022)
 
 Their product line is diverse, and spans cryptocurrency APIs, cryptocurrency wallets and an entire blockchain platform. They have also expanded into other related sectors, such as leveraging blockchain for energy sharing with a product line called BlockStream Energy.<sup>[5](#myendnote5)</sup> Furthermore, the company seems to wish to deliver on their promise to allow more democratization and expansion of global participation in bitcoin and blockchain technology. They are acheiving this goal by utilizing satellite technology to allow participants to access the BitCoin network by an independant satellite feed. This means that in areas where users are not able to access the BitCoin platform my traditional means, they can utilize the BlockStream Satellite.<sup>[5](#myendnote5)</sup> 
 
+These types of developments in technology may indeed bring more underbanked and underfinanced persons into the realm of cryptocurrency and finance overall. If persons who are unable to participate in global markets via traditional internets can utilize this satellity technology, it may revolutionize the cryptocurrency markets. However, this is preliminary speculation and it is too early to see if this will come to fruition in a business sense. 
 
 ## Innovations and Disruptions
+
+If nothing else, the BlockStream corporate ethos and their product line certainly has the potential to become powerful innovative forces in the field of fintech and blockchain. While some of their products are generic, like the cryptocurrency API, some of their products are fundamentally changing the structure of cryptocurrency transactions. Specifically the Liquid Network and the BlockStream Satellite are two outstanding developments that could speed up the BitCoin network and increase the number of participants in the global cryptocurrency community. 
+
+Their company has experienced some setbacks however, such as the breakdown of the Liquid Network in 
 
 
 Relevance
@@ -42,7 +47,6 @@ https://www.bnnbloomberg.ca/bitcoin-infrastructure-firm-blockstream-valued-at-3-
 
 -Break down in 2021 of Liquid Network 
 
-http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-down-1.1662129
 
 
 
@@ -56,6 +60,8 @@ http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-
 <a name="myendnote3">3</a>: [CrunchBase Report on BlockStream.]( https://www.crunchbase.com/organization/blockstream/company_financials) <br/>
 <a name="myendnote4">4</a>: [blockstream-joins-crypto-unicorns.](https://cointelegraph.com/news/canadian-bitcoin-miner-blockstream-joins-crypto-unicorns-with-3-2b-valuation) <br/>
 <a name="myendnote5">5</a>: [BlockStream Website, Jan 2022.](https://blockstream.com/) <br/>
+
+<a name="myendnote5">6</a>: [BlockStream Liquid Network Breaks Down](http://origin.bnn.ca/liquid-network-s-platform-for-faster-bitcoin-trades-breaks-down-1.1662129) <br/>
 
 ## References 
 
