@@ -48,7 +48,7 @@ Utilize the following command to setup the second node.
 
 ./geth --datadir node2 account new
 
-![Screenshot: setting up Node2](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/Node2 - Copy.PNG)
+![Screenshot: setting up Node2](https://github.com/benjaminweymouth/Blockchain-Work/blob/main/POA%20Development%20Chain/Screenshots/Node2V2.PNG)
 
 ## Creating the Network and Genesis Block
 
